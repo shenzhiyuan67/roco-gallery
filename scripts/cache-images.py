@@ -2,8 +2,8 @@ import json
 from pathlib import Path
 import urllib.request
 
-DATA_PATH = Path("data/pets.json")
-IMAGE_DIR = Path("data/images")
+DATA_PATH = Path("public/data/pets.json")
+IMAGE_DIR = Path("public/data/images")
 
 
 def download(url, path):

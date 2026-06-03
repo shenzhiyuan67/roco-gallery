@@ -14,7 +14,7 @@ import {
   isPetCaught,
   catchPet,
   filterCaughtPets
-} from "./app.js";
+} from "./public/app.js";
 
 const pets = [
   { id: "001", name: "喵喵", image: "", attributes: ["草"], description: "" },
@@ -58,7 +58,7 @@ test("creates photo items with default position and layer", () => {
 });
 
 test("pokedex data uses local image paths for canvas export", () => {
-  const payload = JSON.parse(fs.readFileSync("./data/pets.json", "utf8"));
+  const payload = JSON.parse(fs.readFileSync("./public/data/pets.json", "utf8"));
   const petsWithImages = payload.pets.filter((pet) => pet.image);
 
   assert.ok(petsWithImages.length > 100);
