@@ -1,0 +1,3617 @@
+{
+  "generatedAt": "2026-06-03",
+  "source": "洛克小册子",
+  "sourceUrl": "https://roco.dvg.cn/spirits.php?sx=1",
+  "pets": [
+    {
+      "id": "3379",
+      "number": "3379",
+      "name": "糯米剑客",
+      "image": "./data/images/3379.png",
+      "attributes": [
+        "普通"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 140,
+        "attack": 145,
+        "defense": 125,
+        "magicAttack": 80,
+        "magicDefense": 126,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3379",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3379-.png"
+    },
+    {
+      "id": "3367",
+      "number": "3367",
+      "name": "玄音企鹅",
+      "image": "./data/images/3367.png",
+      "attributes": [
+        "普通",
+        "萌"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 145,
+        "attack": 66,
+        "defense": 120,
+        "magicAttack": 145,
+        "magicDefense": 125,
+        "speed": 115
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3367",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3367-.png"
+    },
+    {
+      "id": "3347",
+      "number": "3347",
+      "name": "秘宝小光",
+      "image": "./data/images/3347.png",
+      "attributes": [
+        "普通"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 135,
+        "attack": 150,
+        "defense": 115,
+        "magicAttack": 102,
+        "magicDefense": 127,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3347",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3347-.png"
+    },
+    {
+      "id": "3344",
+      "number": "3344",
+      "name": "公平鸽",
+      "image": "./data/images/3344.png",
+      "attributes": [
+        "普通"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 150,
+        "attack": 140,
+        "defense": 110,
+        "magicAttack": 30,
+        "magicDefense": 105,
+        "speed": 115
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3344",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3344-.png"
+    },
+    {
+      "id": "3333",
+      "number": "3333",
+      "name": "枭姬",
+      "image": "./data/images/3333.png",
+      "attributes": [
+        "普通"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 161,
+        "attack": 153,
+        "defense": 136,
+        "magicAttack": 77,
+        "magicDefense": 131,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3333",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3333-.png"
+    },
+    {
+      "id": "3309",
+      "number": "3309",
+      "name": "赛诺拉斯",
+      "image": "./data/images/3309.png",
+      "attributes": [
+        "普通"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 161,
+        "attack": 156,
+        "defense": 139,
+        "magicAttack": 66,
+        "magicDefense": 135,
+        "speed": 135
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3309",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3309-.png"
+    },
+    {
+      "id": "3298",
+      "number": "3298",
+      "name": "戟叶蓼",
+      "image": "./data/images/3298.png",
+      "attributes": [
+        "普通",
+        "光"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 160,
+        "attack": 151,
+        "defense": 131,
+        "magicAttack": 35,
+        "magicDefense": 135,
+        "speed": 115
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3298",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3298-.png"
+    },
+    {
+      "id": "3295",
+      "number": "3295",
+      "name": "绵茵陈",
+      "image": "./data/images/3295.png",
+      "attributes": [
+        "普通"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 155,
+        "attack": 149,
+        "defense": 133,
+        "magicAttack": 71,
+        "magicDefense": 112,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3295",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3295-.png"
+    },
+    {
+      "id": "3282",
+      "number": "3282",
+      "name": "节奏艾美丽",
+      "image": "./data/images/3282.png",
+      "attributes": [
+        "普通"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 147,
+        "attack": 147,
+        "defense": 128,
+        "magicAttack": 70,
+        "magicDefense": 124,
+        "speed": 123
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3282",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3282-.png"
+    },
+    {
+      "id": "3278",
+      "number": "3278",
+      "name": "金光豹兽王",
+      "image": "./data/images/3278.png",
+      "attributes": [
+        "普通",
+        "火"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 160,
+        "attack": 145,
+        "defense": 134,
+        "magicAttack": 85,
+        "magicDefense": 134,
+        "speed": 132
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3278",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3278-.png"
+    },
+    {
+      "id": "3271",
+      "number": "3271",
+      "name": "旋风剑加尔",
+      "image": "./data/images/3271.png",
+      "attributes": [
+        "普通"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 140,
+        "attack": 134,
+        "defense": 124,
+        "magicAttack": 61,
+        "magicDefense": 123,
+        "speed": 118
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3271",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3271-.png"
+    },
+    {
+      "id": "3256",
+      "number": "3256",
+      "name": "潮游魔方",
+      "image": "./data/images/3256.png",
+      "attributes": [
+        "普通",
+        "光"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 140,
+        "attack": 140,
+        "defense": 132,
+        "magicAttack": 66,
+        "magicDefense": 132,
+        "speed": 100
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3256",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3256-.png"
+    },
+    {
+      "id": "3253",
+      "number": "3253",
+      "name": "铁刀木",
+      "image": "./data/images/3253.png",
+      "attributes": [
+        "普通",
+        "武"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 158,
+        "attack": 150,
+        "defense": 131,
+        "magicAttack": 55,
+        "magicDefense": 130,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3253",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3253-.png"
+    },
+    {
+      "id": "3233",
+      "number": "3233",
+      "name": "堇晶",
+      "image": "./data/images/3233.png",
+      "attributes": [
+        "普通"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 160,
+        "attack": 60,
+        "defense": 133,
+        "magicAttack": 146,
+        "magicDefense": 135,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3233",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3233-.png"
+    },
+    {
+      "id": "3215",
+      "number": "3215",
+      "name": "侠客糯米",
+      "image": "./data/images/3215.png",
+      "attributes": [
+        "普通"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 145,
+        "attack": 141,
+        "defense": 130,
+        "magicAttack": 70,
+        "magicDefense": 122,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3215",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3215-.png"
+    },
+    {
+      "id": "3208",
+      "number": "3208",
+      "name": "浮影猞猁",
+      "image": "./data/images/3208.png",
+      "attributes": [
+        "普通"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 139,
+        "attack": 135,
+        "defense": 127,
+        "magicAttack": 50,
+        "magicDefense": 125,
+        "speed": 100
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3208",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3208-.png"
+    },
+    {
+      "id": "3182",
+      "number": "3182",
+      "name": "满福红包",
+      "image": "./data/images/3182.png",
+      "attributes": [
+        "普通"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 130,
+        "attack": 92,
+        "defense": 100,
+        "magicAttack": 130,
+        "magicDefense": 128,
+        "speed": 113
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3182",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3182-.png"
+    },
+    {
+      "id": "3163",
+      "number": "3163",
+      "name": "晓笛",
+      "image": "./data/images/3163.png",
+      "attributes": [
+        "普通",
+        "萌"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 150,
+        "attack": 55,
+        "defense": 149,
+        "magicAttack": 140,
+        "magicDefense": 110,
+        "speed": 80
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3163",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3163-.png"
+    },
+    {
+      "id": "3148",
+      "number": "3148",
+      "name": "绿宝圆圆",
+      "image": "./data/images/3148.png",
+      "attributes": [
+        "普通"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 153,
+        "attack": 80,
+        "defense": 120,
+        "magicAttack": 141,
+        "magicDefense": 128,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3148",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3148-.png"
+    },
+    {
+      "id": "3144",
+      "number": "3144",
+      "name": "霆霓",
+      "image": "./data/images/3144.png",
+      "attributes": [
+        "普通",
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 160,
+        "attack": 60,
+        "defense": 138,
+        "magicAttack": 150,
+        "magicDefense": 138,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3144",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3144-.png"
+    },
+    {
+      "id": "3114",
+      "number": "3114",
+      "name": "星河剑魂",
+      "image": "./data/images/3114.png",
+      "attributes": [
+        "普通"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 150,
+        "attack": 143,
+        "defense": 132,
+        "magicAttack": 108,
+        "magicDefense": 133,
+        "speed": 125
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3114",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3114-.png"
+    },
+    {
+      "id": "3090",
+      "number": "3090",
+      "name": "迎宵呱呱",
+      "image": "./data/images/3090.png",
+      "attributes": [
+        "普通",
+        "萌"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 127,
+        "attack": 77,
+        "defense": 107,
+        "magicAttack": 130,
+        "magicDefense": 122,
+        "speed": 117
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3090",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3090-.png"
+    },
+    {
+      "id": "3081",
+      "number": "3081",
+      "name": "青钟翾狐",
+      "image": "./data/images/3081.png",
+      "attributes": [
+        "普通",
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 166,
+        "attack": 84,
+        "defense": 133,
+        "magicAttack": 151,
+        "magicDefense": 136,
+        "speed": 131
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3081",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3081-.png"
+    },
+    {
+      "id": "3080",
+      "number": "3080",
+      "name": "金鸣之狐",
+      "image": "./data/images/3080.png",
+      "attributes": [
+        "普通",
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 156,
+        "attack": 54,
+        "defense": 123,
+        "magicAttack": 141,
+        "magicDefense": 126,
+        "speed": 131
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3080",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3080-.png"
+    },
+    {
+      "id": "3079",
+      "number": "3079",
+      "name": "雝狐",
+      "image": "./data/images/3079.png",
+      "attributes": [
+        "普通",
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 146,
+        "attack": 44,
+        "defense": 113,
+        "magicAttack": 131,
+        "magicDefense": 116,
+        "speed": 121
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3079",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3079-.png"
+    },
+    {
+      "id": "3078",
+      "number": "3078",
+      "name": "少音",
+      "image": "./data/images/3078.png",
+      "attributes": [
+        "普通",
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 136,
+        "attack": 34,
+        "defense": 103,
+        "magicAttack": 121,
+        "magicDefense": 106,
+        "speed": 111
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3078",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3078-.png"
+    },
+    {
+      "id": "3068",
+      "number": "3068",
+      "name": "滚球小松鼠",
+      "image": "./data/images/3068.png",
+      "attributes": [
+        "普通"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 130,
+        "attack": 125,
+        "defense": 105,
+        "magicAttack": 60,
+        "magicDefense": 100,
+        "speed": 90
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3068",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3068-.png"
+    },
+    {
+      "id": "3044",
+      "number": "3044",
+      "name": "蒂洛洛",
+      "image": "./data/images/3044.png",
+      "attributes": [
+        "普通",
+        "翼"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 153,
+        "attack": 86,
+        "defense": 129,
+        "magicAttack": 151,
+        "magicDefense": 129,
+        "speed": 137
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3044",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3044-.png"
+    },
+    {
+      "id": "3043",
+      "number": "3043",
+      "name": "天威狮鹫",
+      "image": "./data/images/3043.png",
+      "attributes": [
+        "普通",
+        "翼"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 155,
+        "attack": 100,
+        "defense": 130,
+        "magicAttack": 150,
+        "magicDefense": 135,
+        "speed": 140
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3043",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3043-.png"
+    },
+    {
+      "id": "3037",
+      "number": "3037",
+      "name": "方妹",
+      "image": "./data/images/3037.png",
+      "attributes": [
+        "普通",
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 140,
+        "attack": 140,
+        "defense": 123,
+        "magicAttack": 80,
+        "magicDefense": 100,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3037",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3037-.png"
+    },
+    {
+      "id": "3378",
+      "number": "3378",
+      "name": "秉烛",
+      "image": "./data/images/3378.png",
+      "attributes": [
+        "火",
+        "光"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 150,
+        "attack": 85,
+        "defense": 120,
+        "magicAttack": 148,
+        "magicDefense": 136,
+        "speed": 111
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3378",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3378-.png"
+    },
+    {
+      "id": "3353",
+      "number": "3353",
+      "name": "骁勇炎阳",
+      "image": "./data/images/3353.png",
+      "attributes": [
+        "火",
+        "龙"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 175,
+        "attack": 150,
+        "defense": 128,
+        "magicAttack": 66,
+        "magicDefense": 130,
+        "speed": 136
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3353",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3353-.png"
+    },
+    {
+      "id": "3349",
+      "number": "3349",
+      "name": "橙阳庆灵",
+      "image": "./data/images/3349.png",
+      "attributes": [
+        "火",
+        "武"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 160,
+        "attack": 140,
+        "defense": 130,
+        "magicAttack": 80,
+        "magicDefense": 135,
+        "speed": 128
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3349",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3349-.png"
+    },
+    {
+      "id": "3341",
+      "number": "3341",
+      "name": "崩天",
+      "image": "./data/images/3341.png",
+      "attributes": [
+        "火",
+        "机械"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 135,
+        "attack": 145,
+        "defense": 105,
+        "magicAttack": 60,
+        "magicDefense": 110,
+        "speed": 100
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3341",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3341-.png"
+    },
+    {
+      "id": "3340",
+      "number": "3340",
+      "name": "炽焰丰灵",
+      "image": "./data/images/3340.png",
+      "attributes": [
+        "火"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 154,
+        "attack": 156,
+        "defense": 133,
+        "magicAttack": 90,
+        "magicDefense": 133,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3340",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3340-.png"
+    },
+    {
+      "id": "3336",
+      "number": "3336",
+      "name": "逐月天灯",
+      "image": "./data/images/3336.png",
+      "attributes": [
+        "火",
+        "幽灵"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 115,
+        "attack": 90,
+        "defense": 85,
+        "magicAttack": 95,
+        "magicDefense": 95,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3336",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3336-.png"
+    },
+    {
+      "id": "3335",
+      "number": "3335",
+      "name": "焦桐烬羽",
+      "image": "./data/images/3335.png",
+      "attributes": [
+        "火",
+        "翼"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 140,
+        "attack": 40,
+        "defense": 120,
+        "magicAttack": 145,
+        "magicDefense": 135,
+        "speed": 140
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3335",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3335-.png"
+    },
+    {
+      "id": "3334",
+      "number": "3334",
+      "name": "玄浪千橹",
+      "image": "./data/images/3334.png",
+      "attributes": [
+        "火",
+        "水"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 125,
+        "attack": 140,
+        "defense": 90,
+        "magicAttack": 60,
+        "magicDefense": 90,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3334",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3334-.png"
+    },
+    {
+      "id": "3330",
+      "number": "3330",
+      "name": "破东风孔明",
+      "image": "./data/images/3330.png",
+      "attributes": [
+        "火",
+        "龙"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 155,
+        "attack": 60,
+        "defense": 131,
+        "magicAttack": 164,
+        "magicDefense": 142,
+        "speed": 137
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3330",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3330-.png"
+    },
+    {
+      "id": "3326",
+      "number": "3326",
+      "name": "学院火灵",
+      "image": "./data/images/3326.png",
+      "attributes": [
+        "火"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 147,
+        "attack": 94,
+        "defense": 123,
+        "magicAttack": 150,
+        "magicDefense": 121,
+        "speed": 125
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3326",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3326-.png"
+    },
+    {
+      "id": "3322",
+      "number": "3322",
+      "name": "双轨维洛司",
+      "image": "./data/images/3322.png",
+      "attributes": [
+        "火",
+        "冰"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 155,
+        "attack": 70,
+        "defense": 135,
+        "magicAttack": 151,
+        "magicDefense": 134,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3322",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3322-.png"
+    },
+    {
+      "id": "3321",
+      "number": "3321",
+      "name": "莱恩纳",
+      "image": "./data/images/3321.png",
+      "attributes": [
+        "火"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 153,
+        "attack": 80,
+        "defense": 129,
+        "magicAttack": 155,
+        "magicDefense": 133,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3321",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3321-.png"
+    },
+    {
+      "id": "3310",
+      "number": "3310",
+      "name": "火焰梦魇",
+      "image": "./data/images/3310.png",
+      "attributes": [
+        "火",
+        "幽灵"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 160,
+        "attack": 156,
+        "defense": 134,
+        "magicAttack": 77,
+        "magicDefense": 123,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3310",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3310-.png"
+    },
+    {
+      "id": "3272",
+      "number": "3272",
+      "name": "虹猫",
+      "image": "./data/images/3272.png",
+      "attributes": [
+        "火"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 158,
+        "attack": 155,
+        "defense": 134,
+        "magicAttack": 99,
+        "magicDefense": 138,
+        "speed": 124
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3272",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3272-.png"
+    },
+    {
+      "id": "3259",
+      "number": "3259",
+      "name": "莎莎",
+      "image": "./data/images/3259.png",
+      "attributes": [
+        "火"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 147,
+        "attack": 136,
+        "defense": 130,
+        "magicAttack": 71,
+        "magicDefense": 133,
+        "speed": 126
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3259",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3259-.png"
+    },
+    {
+      "id": "3238",
+      "number": "3238",
+      "name": "赤翼牦牛",
+      "image": "./data/images/3238.png",
+      "attributes": [
+        "火",
+        "翼"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 165,
+        "attack": 150,
+        "defense": 125,
+        "magicAttack": 66,
+        "magicDefense": 120,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3238",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3238-.png"
+    },
+    {
+      "id": "3225",
+      "number": "3225",
+      "name": "炜煌雷诺",
+      "image": "./data/images/3225.png",
+      "attributes": [
+        "火"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 170,
+        "attack": 153,
+        "defense": 143,
+        "magicAttack": 100,
+        "magicDefense": 131,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3225",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3225-.png"
+    },
+    {
+      "id": "3198",
+      "number": "3198",
+      "name": "熔炎领主",
+      "image": "./data/images/3198.png",
+      "attributes": [
+        "火",
+        "土"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 145,
+        "attack": 142,
+        "defense": 135,
+        "magicAttack": 90,
+        "magicDefense": 125,
+        "speed": 115
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3198",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3198-.png"
+    },
+    {
+      "id": "3194",
+      "number": "3194",
+      "name": "赏春精灵",
+      "image": "./data/images/3194.png",
+      "attributes": [
+        "火",
+        "草"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 166,
+        "attack": 80,
+        "defense": 131,
+        "magicAttack": 154,
+        "magicDefense": 131,
+        "speed": 127
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3194",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3194-.png"
+    },
+    {
+      "id": "3183",
+      "number": "3183",
+      "name": "爆竹声声",
+      "image": "./data/images/3183.png",
+      "attributes": [
+        "火"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 127,
+        "attack": 129,
+        "defense": 113,
+        "magicAttack": 80,
+        "magicDefense": 125,
+        "speed": 117
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3183",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3183-.png"
+    },
+    {
+      "id": "3180",
+      "number": "3180",
+      "name": "炮仗急先锋",
+      "image": "./data/images/3180.png",
+      "attributes": [
+        "火",
+        "机械"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 177,
+        "attack": 165,
+        "defense": 141,
+        "magicAttack": 100,
+        "magicDefense": 111,
+        "speed": 100
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3180",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3180-.png"
+    },
+    {
+      "id": "3170",
+      "number": "3170",
+      "name": "挥动者路比",
+      "image": "./data/images/3170.png",
+      "attributes": [
+        "火",
+        "石"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 160,
+        "attack": 150,
+        "defense": 130,
+        "magicAttack": 86,
+        "magicDefense": 130,
+        "speed": 125
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3170",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3170-.png"
+    },
+    {
+      "id": "3121",
+      "number": "3121",
+      "name": "焰耀赤龙",
+      "image": "./data/images/3121.png",
+      "attributes": [
+        "火",
+        "龙"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 158,
+        "attack": 50,
+        "defense": 130,
+        "magicAttack": 150,
+        "magicDefense": 130,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3121",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3121-.png"
+    },
+    {
+      "id": "3119",
+      "number": "3119",
+      "name": "兽神塔尔",
+      "image": "./data/images/3119.png",
+      "attributes": [
+        "火"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 160,
+        "attack": 144,
+        "defense": 135,
+        "magicAttack": 95,
+        "magicDefense": 132,
+        "speed": 119
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3119",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3119-.png"
+    },
+    {
+      "id": "3103",
+      "number": "3103",
+      "name": "战斗暴龙兽",
+      "image": "./data/images/3103.png",
+      "attributes": [
+        "火",
+        "龙"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 155,
+        "attack": 155,
+        "defense": 135,
+        "magicAttack": 99,
+        "magicDefense": 138,
+        "speed": 126
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3103",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3103-.png"
+    },
+    {
+      "id": "3098",
+      "number": "3098",
+      "name": "伽楼达兽",
+      "image": "./data/images/3098.png",
+      "attributes": [
+        "火",
+        "翼"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 151,
+        "attack": 80,
+        "defense": 132,
+        "magicAttack": 151,
+        "magicDefense": 133,
+        "speed": 131
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3098",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3098-.png"
+    },
+    {
+      "id": "3091",
+      "number": "3091",
+      "name": "吉福企鹅",
+      "image": "./data/images/3091.png",
+      "attributes": [
+        "火"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 130,
+        "attack": 65,
+        "defense": 100,
+        "magicAttack": 133,
+        "magicDefense": 125,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3091",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3091-.png"
+    },
+    {
+      "id": "3056",
+      "number": "3056",
+      "name": "可丽·野息",
+      "image": "./data/images/3056.png",
+      "attributes": [
+        "火"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 143,
+        "attack": 145,
+        "defense": 130,
+        "magicAttack": 77,
+        "magicDefense": 125,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3056",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3056-.png"
+    },
+    {
+      "id": "3042",
+      "number": "3042",
+      "name": "幻晶灵巫",
+      "image": "./data/images/3042.png",
+      "attributes": [
+        "火"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 133,
+        "attack": 145,
+        "defense": 120,
+        "magicAttack": 73,
+        "magicDefense": 106,
+        "speed": 123
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3042",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3042-.png"
+    },
+    {
+      "id": "3381",
+      "number": "3381",
+      "name": "皓月洛神",
+      "image": "./data/images/3381.png",
+      "attributes": [
+        "水"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 152,
+        "attack": 80,
+        "defense": 132,
+        "magicAttack": 145,
+        "magicDefense": 138,
+        "speed": 137
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3381",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3381-.png"
+    },
+    {
+      "id": "3380",
+      "number": "3380",
+      "name": "泷景",
+      "image": "./data/images/3380.png",
+      "attributes": [
+        "水",
+        "草"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 162,
+        "attack": 155,
+        "defense": 135,
+        "magicAttack": 55,
+        "magicDefense": 136,
+        "speed": 128
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3380",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3380-.png"
+    },
+    {
+      "id": "3377",
+      "number": "3377",
+      "name": "御波",
+      "image": "./data/images/3377.png",
+      "attributes": [
+        "水"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 141,
+        "attack": 141,
+        "defense": 124,
+        "magicAttack": 71,
+        "magicDefense": 116,
+        "speed": 100
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3377",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3377-.png"
+    },
+    {
+      "id": "3368",
+      "number": "3368",
+      "name": "荷裳仙灵",
+      "image": "./data/images/3368.png",
+      "attributes": [
+        "水",
+        "草"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 165,
+        "attack": 55,
+        "defense": 130,
+        "magicAttack": 145,
+        "magicDefense": 135,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3368",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3368-.png"
+    },
+    {
+      "id": "3364",
+      "number": "3364",
+      "name": "花旦艾米",
+      "image": "./data/images/3364.png",
+      "attributes": [
+        "水",
+        "光"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 140,
+        "attack": 70,
+        "defense": 119,
+        "magicAttack": 145,
+        "magicDefense": 135,
+        "speed": 111
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3364",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3364-.png"
+    },
+    {
+      "id": "3350",
+      "number": "3350",
+      "name": "木瓜碗碗",
+      "image": "./data/images/3350.png",
+      "attributes": [
+        "水",
+        "光"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 165,
+        "attack": 130,
+        "defense": 140,
+        "magicAttack": 50,
+        "magicDefense": 125,
+        "speed": 110
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3350",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3350-.png"
+    },
+    {
+      "id": "3343",
+      "number": "3343",
+      "name": "西瓜呱呱",
+      "image": "./data/images/3343.png",
+      "attributes": [
+        "水",
+        "草"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 150,
+        "attack": 140,
+        "defense": 110,
+        "magicAttack": 30,
+        "magicDefense": 105,
+        "speed": 115
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3343",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3343-.png"
+    },
+    {
+      "id": "3342",
+      "number": "3342",
+      "name": "春困狸奴",
+      "image": "./data/images/3342.png",
+      "attributes": [
+        "水"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 150,
+        "attack": 50,
+        "defense": 130,
+        "magicAttack": 145,
+        "magicDefense": 129,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3342",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3342-.png"
+    },
+    {
+      "id": "3339",
+      "number": "3339",
+      "name": "绿藤协灵",
+      "image": "./data/images/3339.png",
+      "attributes": [
+        "水",
+        "草"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 168,
+        "attack": 30,
+        "defense": 130,
+        "magicAttack": 145,
+        "magicDefense": 130,
+        "speed": 125
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3339",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3339-.png"
+    },
+    {
+      "id": "3304",
+      "number": "3304",
+      "name": "阿肚",
+      "image": "./data/images/3304.png",
+      "attributes": [
+        "水",
+        "幽灵"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 153,
+        "attack": 148,
+        "defense": 137,
+        "magicAttack": 90,
+        "magicDefense": 123,
+        "speed": 110
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3304",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3304-.png"
+    },
+    {
+      "id": "3294",
+      "number": "3294",
+      "name": "雾影灵仙",
+      "image": "./data/images/3294.png",
+      "attributes": [
+        "水",
+        "翼"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 159,
+        "attack": 106,
+        "defense": 125,
+        "magicAttack": 151,
+        "magicDefense": 135,
+        "speed": 135
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3294",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3294-.png"
+    },
+    {
+      "id": "3291",
+      "number": "3291",
+      "name": "麦冬",
+      "image": "./data/images/3291.png",
+      "attributes": [
+        "水",
+        "草"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 155,
+        "attack": 61,
+        "defense": 120,
+        "magicAttack": 140,
+        "magicDefense": 150,
+        "speed": 115
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3291",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3291-.png"
+    },
+    {
+      "id": "3289",
+      "number": "3289",
+      "name": "桑寄生",
+      "image": "./data/images/3289.png",
+      "attributes": [
+        "水"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 146,
+        "attack": 55,
+        "defense": 127,
+        "magicAttack": 143,
+        "magicDefense": 127,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3289",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3289-.png"
+    },
+    {
+      "id": "3288",
+      "number": "3288",
+      "name": "法兰",
+      "image": "./data/images/3288.png",
+      "attributes": [
+        "水",
+        "幽灵"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 158,
+        "attack": 70,
+        "defense": 111,
+        "magicAttack": 151,
+        "magicDefense": 111,
+        "speed": 131
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3288",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3288-.png"
+    },
+    {
+      "id": "3284",
+      "number": "3284",
+      "name": "玉竹",
+      "image": "./data/images/3284.png",
+      "attributes": [
+        "水"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 154,
+        "attack": 55,
+        "defense": 133,
+        "magicAttack": 168,
+        "magicDefense": 134,
+        "speed": 101
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3284",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3284-.png"
+    },
+    {
+      "id": "3276",
+      "number": "3276",
+      "name": "钩藤",
+      "image": "./data/images/3276.png",
+      "attributes": [
+        "水",
+        "草"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 163,
+        "attack": 152,
+        "defense": 130,
+        "magicAttack": 100,
+        "magicDefense": 124,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3276",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3276-.png"
+    },
+    {
+      "id": "3270",
+      "number": "3270",
+      "name": "雨花剑企鹅",
+      "image": "./data/images/3270.png",
+      "attributes": [
+        "水"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 139,
+        "attack": 80,
+        "defense": 127,
+        "magicAttack": 110,
+        "magicDefense": 120,
+        "speed": 131
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3270",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3270-.png"
+    },
+    {
+      "id": "3266",
+      "number": "3266",
+      "name": "琴澜鸣鹤",
+      "image": "./data/images/3266.png",
+      "attributes": [
+        "水",
+        "虫"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 151,
+        "attack": 148,
+        "defense": 139,
+        "magicAttack": 86,
+        "magicDefense": 134,
+        "speed": 143
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3266",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3266-.png"
+    },
+    {
+      "id": "3265",
+      "number": "3265",
+      "name": "仙筝之鹤",
+      "image": "./data/images/3265.png",
+      "attributes": [
+        "水",
+        "虫"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 145,
+        "attack": 135,
+        "defense": 120,
+        "magicAttack": 60,
+        "magicDefense": 120,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3265",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3265-.png"
+    },
+    {
+      "id": "3264",
+      "number": "3264",
+      "name": "筑羽",
+      "image": "./data/images/3264.png",
+      "attributes": [
+        "水",
+        "虫"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 125,
+        "attack": 120,
+        "defense": 110,
+        "magicAttack": 55,
+        "magicDefense": 110,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3264",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3264-.png"
+    },
+    {
+      "id": "3263",
+      "number": "3263",
+      "name": "汐宝",
+      "image": "./data/images/3263.png",
+      "attributes": [
+        "水",
+        "虫"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 100,
+        "magicAttack": 50,
+        "magicDefense": 100,
+        "speed": 100
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3263",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3263-.png"
+    },
+    {
+      "id": "3248",
+      "number": "3248",
+      "name": "惊涛怪神",
+      "image": "./data/images/3248.png",
+      "attributes": [
+        "水"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 163,
+        "attack": 95,
+        "defense": 133,
+        "magicAttack": 146,
+        "magicDefense": 138,
+        "speed": 110
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3248",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3248-.png"
+    },
+    {
+      "id": "3210",
+      "number": "3210",
+      "name": "浮影蓝莲",
+      "image": "./data/images/3210.png",
+      "attributes": [
+        "水"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 129,
+        "attack": 52,
+        "defense": 118,
+        "magicAttack": 140,
+        "magicDefense": 128,
+        "speed": 111
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3210",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3210-.png"
+    },
+    {
+      "id": "3195",
+      "number": "3195",
+      "name": "形影宝戒",
+      "image": "./data/images/3195.png",
+      "attributes": [
+        "水",
+        "萌"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 155,
+        "attack": 135,
+        "defense": 129,
+        "magicAttack": 140,
+        "magicDefense": 129,
+        "speed": 126
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3195",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3195-.png"
+    },
+    {
+      "id": "3193",
+      "number": "3193",
+      "name": "蓝波法芙",
+      "image": "./data/images/3193.png",
+      "attributes": [
+        "水"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 160,
+        "attack": 90,
+        "defense": 132,
+        "magicAttack": 151,
+        "magicDefense": 138,
+        "speed": 135
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3193",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3193-.png"
+    },
+    {
+      "id": "3186",
+      "number": "3186",
+      "name": "海兰",
+      "image": "./data/images/3186.png",
+      "attributes": [
+        "水"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 150,
+        "attack": 141,
+        "defense": 133,
+        "magicAttack": 76,
+        "magicDefense": 133,
+        "speed": 119
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3186",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3186-.png"
+    },
+    {
+      "id": "3166",
+      "number": "3166",
+      "name": "蜃海齿鲨",
+      "image": "./data/images/3166.png",
+      "attributes": [
+        "水"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 160,
+        "attack": 155,
+        "defense": 145,
+        "magicAttack": 50,
+        "magicDefense": 128,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3166",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3166-.png"
+    },
+    {
+      "id": "3142",
+      "number": "3142",
+      "name": "滟媚迪娜",
+      "image": "./data/images/3142.png",
+      "attributes": [
+        "水"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 155,
+        "attack": 80,
+        "defense": 130,
+        "magicAttack": 148,
+        "magicDefense": 130,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3142",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3142-.png"
+    },
+    {
+      "id": "3139",
+      "number": "3139",
+      "name": "渚雷",
+      "image": "./data/images/3139.png",
+      "attributes": [
+        "水",
+        "恶魔"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 159,
+        "attack": 155,
+        "defense": 137,
+        "magicAttack": 82,
+        "magicDefense": 135,
+        "speed": 132
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3139",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3139-.png"
+    },
+    {
+      "id": "3346",
+      "number": "3346",
+      "name": "秘宝拉特",
+      "image": "./data/images/3346.png",
+      "attributes": [
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 135,
+        "attack": 63,
+        "defense": 125,
+        "magicAttack": 140,
+        "magicDefense": 125,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3346",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3346-.png"
+    },
+    {
+      "id": "3313",
+      "number": "3313",
+      "name": "协律迪莫",
+      "image": "./data/images/3313.png",
+      "attributes": [
+        "电",
+        "光"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 150,
+        "attack": 145,
+        "defense": 125,
+        "magicAttack": 50,
+        "magicDefense": 128,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3313",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3313-.png"
+    },
+    {
+      "id": "3300",
+      "number": "3300",
+      "name": "超强水晶巨人",
+      "image": "./data/images/3300.png",
+      "attributes": [
+        "电",
+        "石"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 158,
+        "attack": 140,
+        "defense": 155,
+        "magicAttack": 65,
+        "magicDefense": 135,
+        "speed": 85
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3300",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3300-.png"
+    },
+    {
+      "id": "3269",
+      "number": "3269",
+      "name": "青光剑阿布",
+      "image": "./data/images/3269.png",
+      "attributes": [
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 137,
+        "attack": 120,
+        "defense": 111,
+        "magicAttack": 111,
+        "magicDefense": 100,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3269",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3269-.png"
+    },
+    {
+      "id": "3267",
+      "number": "3267",
+      "name": "奔雷剑迪莫",
+      "image": "./data/images/3267.png",
+      "attributes": [
+        "电",
+        "光"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 139,
+        "attack": 130,
+        "defense": 120,
+        "magicAttack": 90,
+        "magicDefense": 114,
+        "speed": 113
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3267",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3267-.png"
+    },
+    {
+      "id": "3249",
+      "number": "3249",
+      "name": "轰鼓元帅",
+      "image": "./data/images/3249.png",
+      "attributes": [
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 160,
+        "attack": 136,
+        "defense": 131,
+        "magicAttack": 145,
+        "magicDefense": 130,
+        "speed": 133
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3249",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3249-.png"
+    },
+    {
+      "id": "3220",
+      "number": "3220",
+      "name": "钧霆奥德诺",
+      "image": "./data/images/3220.png",
+      "attributes": [
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 160,
+        "attack": 155,
+        "defense": 139,
+        "magicAttack": 70,
+        "magicDefense": 133,
+        "speed": 135
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3220",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3220-.png"
+    },
+    {
+      "id": "3187",
+      "number": "3187",
+      "name": "耆望磁鹿",
+      "image": "./data/images/3187.png",
+      "attributes": [
+        "电",
+        "武"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 163,
+        "attack": 147,
+        "defense": 135,
+        "magicAttack": 70,
+        "magicDefense": 135,
+        "speed": 133
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3187",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3187-.png"
+    },
+    {
+      "id": "3150",
+      "number": "3150",
+      "name": "磁暴妖兽",
+      "image": "./data/images/3150.png",
+      "attributes": [
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 155,
+        "attack": 92,
+        "defense": 130,
+        "magicAttack": 147,
+        "magicDefense": 136,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3150",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3150-.png"
+    },
+    {
+      "id": "3146",
+      "number": "3146",
+      "name": "震雷圣子",
+      "image": "./data/images/3146.png",
+      "attributes": [
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 179,
+        "attack": 55,
+        "defense": 150,
+        "magicAttack": 145,
+        "magicDefense": 138,
+        "speed": 110
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3146",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3146-.png"
+    },
+    {
+      "id": "3111",
+      "number": "3111",
+      "name": "祖顿兽",
+      "image": "./data/images/3111.png",
+      "attributes": [
+        "水",
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 155,
+        "attack": 149,
+        "defense": 135,
+        "magicAttack": 80,
+        "magicDefense": 131,
+        "speed": 127
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3111",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3111-.png"
+    },
+    {
+      "id": "3110",
+      "number": "3110",
+      "name": "超比多兽",
+      "image": "./data/images/3110.png",
+      "attributes": [
+        "电",
+        "虫"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 153,
+        "attack": 148,
+        "defense": 136,
+        "magicAttack": 83,
+        "magicDefense": 125,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3110",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3110-.png"
+    },
+    {
+      "id": "3104",
+      "number": "3104",
+      "name": "琴蓝",
+      "image": "./data/images/3104.png",
+      "attributes": [
+        "电",
+        "机械"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 143,
+        "attack": 65,
+        "defense": 120,
+        "magicAttack": 141,
+        "magicDefense": 130,
+        "speed": 123
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3104",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3104-.png"
+    },
+    {
+      "id": "3100",
+      "number": "3100",
+      "name": "可丽·翔歌",
+      "image": "./data/images/3100.png",
+      "attributes": [
+        "电",
+        "萌"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 147,
+        "attack": 73,
+        "defense": 120,
+        "magicAttack": 153,
+        "magicDefense": 122,
+        "speed": 118
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3100",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3100-.png"
+    },
+    {
+      "id": "3099",
+      "number": "3099",
+      "name": "守梦·韵律",
+      "image": "./data/images/3099.png",
+      "attributes": [
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 145,
+        "attack": 70,
+        "defense": 130,
+        "magicAttack": 139,
+        "magicDefense": 130,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3099",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3099-.png"
+    },
+    {
+      "id": "3002",
+      "number": "3002",
+      "name": "电磁超人",
+      "image": "./data/images/3002.png",
+      "attributes": [
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 140,
+        "attack": 82,
+        "defense": 135,
+        "magicAttack": 149,
+        "magicDefense": 138,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3002",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3002-.png"
+    },
+    {
+      "id": "2955",
+      "number": "2955",
+      "name": "黑耀雷锤",
+      "image": "./data/images/2955.png",
+      "attributes": [
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 137,
+        "attack": 134,
+        "defense": 120,
+        "magicAttack": 64,
+        "magicDefense": 109,
+        "speed": 121
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=2955",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/2955-.png"
+    },
+    {
+      "id": "2954",
+      "number": "2954",
+      "name": "黑耀豆豆",
+      "image": "./data/images/2954.png",
+      "attributes": [
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 112,
+        "attack": 119,
+        "defense": 106,
+        "magicAttack": 56,
+        "magicDefense": 90,
+        "speed": 83
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=2954",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/2954-.png"
+    },
+    {
+      "id": "2911",
+      "number": "2911",
+      "name": "闪电鳗鱼",
+      "image": "./data/images/2911.png",
+      "attributes": [
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 145,
+        "attack": 77,
+        "defense": 94,
+        "magicAttack": 137,
+        "magicDefense": 121,
+        "speed": 121
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=2911",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/2911-.png"
+    },
+    {
+      "id": "2910",
+      "number": "2910",
+      "name": "胆小鳗鱼",
+      "image": "./data/images/2910.png",
+      "attributes": [
+        "电"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 115,
+        "attack": 60,
+        "defense": 92,
+        "magicAttack": 117,
+        "magicDefense": 107,
+        "speed": 89
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=2910",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/2910-.png"
+    },
+    {
+      "id": "2874",
+      "number": "2874",
+      "name": "雷磁贝羚",
+      "image": "./data/images/2874.png",
+      "attributes": [
+        "电",
+        "武"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 148,
+        "attack": 139,
+        "defense": 132,
+        "magicAttack": 76,
+        "magicDefense": 131,
+        "speed": 119
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=2874",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/2874-.png"
+    },
+    {
+      "id": "2873",
+      "number": "2873",
+      "name": "雷电斐尔",
+      "image": "./data/images/2873.png",
+      "attributes": [
+        "电",
+        "萌"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 140,
+        "attack": 57,
+        "defense": 118,
+        "magicAttack": 145,
+        "magicDefense": 120,
+        "speed": 106
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=2873",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/2873-.png"
+    },
+    {
+      "id": "2868",
+      "number": "2868",
+      "name": "雷霆伊兹",
+      "image": "./data/images/2868.png",
+      "attributes": [
+        "电",
+        "石"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 148,
+        "attack": 80,
+        "defense": 128,
+        "magicAttack": 144,
+        "magicDefense": 139,
+        "speed": 129
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=2868",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/2868-.png"
+    },
+    {
+      "id": "2862",
+      "number": "2862",
+      "name": "噬元械龙",
+      "image": "./data/images/2862.png",
+      "attributes": [
+        "电",
+        "机械"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 161,
+        "attack": 150,
+        "defense": 136,
+        "magicAttack": 85,
+        "magicDefense": 139,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=2862",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/2862-.png"
+    },
+    {
+      "id": "3382",
+      "number": "3382",
+      "name": "蜜思",
+      "image": "./data/images/3382.png",
+      "attributes": [
+        "草"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 145,
+        "attack": 90,
+        "defense": 120,
+        "magicAttack": 141,
+        "magicDefense": 131,
+        "speed": 103
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3382",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3382-.png"
+    },
+    {
+      "id": "3361",
+      "number": "3361",
+      "name": "赑瑞玄龟",
+      "image": "./data/images/3361.png",
+      "attributes": [
+        "草",
+        "石"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 199,
+        "attack": 129,
+        "defense": 159,
+        "magicAttack": 59,
+        "magicDefense": 139,
+        "speed": 59
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3361",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3361-.png"
+    },
+    {
+      "id": "3360",
+      "number": "3360",
+      "name": "瑞宝供奉",
+      "image": "./data/images/3360.png",
+      "attributes": [
+        "草",
+        "石"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 169,
+        "attack": 119,
+        "defense": 149,
+        "magicAttack": 49,
+        "magicDefense": 129,
+        "speed": 49
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3360",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3360-.png"
+    },
+    {
+      "id": "3359",
+      "number": "3359",
+      "name": "契文灵龟",
+      "image": "./data/images/3359.png",
+      "attributes": [
+        "草",
+        "石"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 159,
+        "attack": 109,
+        "defense": 139,
+        "magicAttack": 39,
+        "magicDefense": 119,
+        "speed": 39
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3359",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3359-.png"
+    },
+    {
+      "id": "3358",
+      "number": "3358",
+      "name": "甲宝",
+      "image": "./data/images/3358.png",
+      "attributes": [
+        "草",
+        "石"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 99,
+        "attack": 99,
+        "defense": 99,
+        "magicAttack": 29,
+        "magicDefense": 99,
+        "speed": 29
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3358",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3358-.png"
+    },
+    {
+      "id": "3345",
+      "number": "3345",
+      "name": "蜜瓜啵啵",
+      "image": "./data/images/3345.png",
+      "attributes": [
+        "草",
+        "萌"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 150,
+        "attack": 30,
+        "defense": 126,
+        "magicAttack": 140,
+        "magicDefense": 125,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3345",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3345-.png"
+    },
+    {
+      "id": "3332",
+      "number": "3332",
+      "name": "独角金颀",
+      "image": "./data/images/3332.png",
+      "attributes": [
+        "草",
+        "土"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 175,
+        "attack": 50,
+        "defense": 131,
+        "magicAttack": 145,
+        "magicDefense": 145,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3332",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3332-.png"
+    },
+    {
+      "id": "3328",
+      "number": "3328",
+      "name": "维克",
+      "image": "./data/images/3328.png",
+      "attributes": [
+        "草",
+        "毒"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 120,
+        "attack": 90,
+        "defense": 95,
+        "magicAttack": 125,
+        "magicDefense": 95,
+        "speed": 80
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3328",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3328-.png"
+    },
+    {
+      "id": "3312",
+      "number": "3312",
+      "name": "莉迪安",
+      "image": "./data/images/3312.png",
+      "attributes": [
+        "草",
+        "光"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 150,
+        "attack": 45,
+        "defense": 125,
+        "magicAttack": 140,
+        "magicDefense": 127,
+        "speed": 123
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3312",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3312-.png"
+    },
+    {
+      "id": "3311",
+      "number": "3311",
+      "name": "米莱",
+      "image": "./data/images/3311.png",
+      "attributes": [
+        "草"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 150,
+        "attack": 66,
+        "defense": 127,
+        "magicAttack": 140,
+        "magicDefense": 133,
+        "speed": 125
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3311",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3311-.png"
+    },
+    {
+      "id": "3303",
+      "number": "3303",
+      "name": "哈佛",
+      "image": "./data/images/3303.png",
+      "attributes": [
+        "草",
+        "毒"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 152,
+        "attack": 91,
+        "defense": 125,
+        "magicAttack": 147,
+        "magicDefense": 135,
+        "speed": 110
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3303",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3303-.png"
+    },
+    {
+      "id": "3286",
+      "number": "3286",
+      "name": "卫林勇士",
+      "image": "./data/images/3286.png",
+      "attributes": [
+        "草"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 158,
+        "attack": 150,
+        "defense": 134,
+        "magicAttack": 80,
+        "magicDefense": 133,
+        "speed": 125
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3286",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3286-.png"
+    },
+    {
+      "id": "3283",
+      "number": "3283",
+      "name": "槲寄生",
+      "image": "./data/images/3283.png",
+      "attributes": [
+        "草",
+        "翼"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 145,
+        "attack": 60,
+        "defense": 120,
+        "magicAttack": 145,
+        "magicDefense": 130,
+        "speed": 120
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3283",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3283-.png"
+    },
+    {
+      "id": "3257",
+      "number": "3257",
+      "name": "空灵糖心",
+      "image": "./data/images/3257.png",
+      "attributes": [
+        "草",
+        "幽灵"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 163,
+        "attack": 150,
+        "defense": 139,
+        "magicAttack": 90,
+        "magicDefense": 120,
+        "speed": 127
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3257",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3257-.png"
+    },
+    {
+      "id": "3245",
+      "number": "3245",
+      "name": "丰收呱呱",
+      "image": "./data/images/3245.png",
+      "attributes": [
+        "草"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 143,
+        "attack": 130,
+        "defense": 121,
+        "magicAttack": 63,
+        "magicDefense": 110,
+        "speed": 73
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3245",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3245-.png"
+    },
+    {
+      "id": "3243",
+      "number": "3243",
+      "name": "剑花",
+      "image": "./data/images/3243.png",
+      "attributes": [
+        "草",
+        "光"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 166,
+        "attack": 150,
+        "defense": 135,
+        "magicAttack": 50,
+        "magicDefense": 131,
+        "speed": 125
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3243",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3243-.png"
+    },
+    {
+      "id": "3217",
+      "number": "3217",
+      "name": "洛蔻蔻",
+      "image": "./data/images/3217.png",
+      "attributes": [
+        "草",
+        "土"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 157,
+        "attack": 86,
+        "defense": 127,
+        "magicAttack": 144,
+        "magicDefense": 129,
+        "speed": 129
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3217",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3217-.png"
+    },
+    {
+      "id": "3216",
+      "number": "3216",
+      "name": "糯米当家",
+      "image": "./data/images/3216.png",
+      "attributes": [
+        "草"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 147,
+        "attack": 81,
+        "defense": 133,
+        "magicAttack": 145,
+        "magicDefense": 133,
+        "speed": 110
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3216",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3216-.png"
+    },
+    {
+      "id": "3214",
+      "number": "3214",
+      "name": "曼陀罗战神",
+      "image": "./data/images/3214.png",
+      "attributes": [
+        "草",
+        "恶魔"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 170,
+        "attack": 155,
+        "defense": 137,
+        "magicAttack": 90,
+        "magicDefense": 120,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3214",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3214-.png"
+    },
+    {
+      "id": "3171",
+      "number": "3171",
+      "name": "硕果格兰",
+      "image": "./data/images/3171.png",
+      "attributes": [
+        "草"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 190,
+        "attack": 55,
+        "defense": 130,
+        "magicAttack": 170,
+        "magicDefense": 133,
+        "speed": 125
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3171",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3171-.png"
+    },
+    {
+      "id": "3169",
+      "number": "3169",
+      "name": "碧霞兮",
+      "image": "./data/images/3169.png",
+      "attributes": [
+        "草",
+        "萌"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 161,
+        "attack": 82,
+        "defense": 141,
+        "magicAttack": 156,
+        "magicDefense": 139,
+        "speed": 116
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3169",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3169-.png"
+    },
+    {
+      "id": "3167",
+      "number": "3167",
+      "name": "激斗奎因",
+      "image": "./data/images/3167.png",
+      "attributes": [
+        "草"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 165,
+        "attack": 155,
+        "defense": 120,
+        "magicAttack": 51,
+        "magicDefense": 145,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3167",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3167-.png"
+    },
+    {
+      "id": "3161",
+      "number": "3161",
+      "name": "驭萝侠兔",
+      "image": "./data/images/3161.png",
+      "attributes": [
+        "草",
+        "虫"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 145,
+        "attack": 155,
+        "defense": 128,
+        "magicAttack": 51,
+        "magicDefense": 129,
+        "speed": 137
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3161",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3161-.png"
+    },
+    {
+      "id": "3385",
+      "number": "3385",
+      "name": "伊万",
+      "image": "./data/images/3385.png",
+      "attributes": [
+        "冰"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 146,
+        "attack": 146,
+        "defense": 136,
+        "magicAttack": 87,
+        "magicDefense": 120,
+        "speed": 127
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3385",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3385-.png"
+    },
+    {
+      "id": "3372",
+      "number": "3372",
+      "name": "知音文鳐",
+      "image": "./data/images/3372.png",
+      "attributes": [
+        "冰",
+        "翼"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 150,
+        "attack": 96,
+        "defense": 116,
+        "magicAttack": 156,
+        "magicDefense": 143,
+        "speed": 132
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3372",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3372-.png"
+    },
+    {
+      "id": "3362",
+      "number": "3362",
+      "name": "塞勒姆",
+      "image": "./data/images/3362.png",
+      "attributes": [
+        "冰"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 165,
+        "attack": 100,
+        "defense": 140,
+        "magicAttack": 150,
+        "magicDefense": 140,
+        "speed": 144
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3362",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3362-.png"
+    },
+    {
+      "id": "3357",
+      "number": "3357",
+      "name": "冰铃蝶仙",
+      "image": "./data/images/3357.png",
+      "attributes": [
+        "冰",
+        "虫"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 150,
+        "attack": 60,
+        "defense": 125,
+        "magicAttack": 150,
+        "magicDefense": 127,
+        "speed": 110
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3357",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3357-.png"
+    },
+    {
+      "id": "3356",
+      "number": "3356",
+      "name": "暮小狐",
+      "image": "./data/images/3356.png",
+      "attributes": [
+        "冰"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 155,
+        "attack": 35,
+        "defense": 128,
+        "magicAttack": 145,
+        "magicDefense": 128,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3356",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3356-.png"
+    },
+    {
+      "id": "3302",
+      "number": "3302",
+      "name": "冰溟魔魟",
+      "image": "./data/images/3302.png",
+      "attributes": [
+        "冰"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 168,
+        "attack": 66,
+        "defense": 135,
+        "magicAttack": 151,
+        "magicDefense": 136,
+        "speed": 115
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3302",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3302-.png"
+    },
+    {
+      "id": "3290",
+      "number": "3290",
+      "name": "忍冬",
+      "image": "./data/images/3290.png",
+      "attributes": [
+        "冰"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 144,
+        "attack": 140,
+        "defense": 123,
+        "magicAttack": 60,
+        "magicDefense": 119,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3290",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3290-.png"
+    },
+    {
+      "id": "3275",
+      "number": "3275",
+      "name": "寒月灵熊",
+      "image": "./data/images/3275.png",
+      "attributes": [
+        "冰"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 151,
+        "attack": 111,
+        "defense": 128,
+        "magicAttack": 150,
+        "magicDefense": 138,
+        "speed": 102
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3275",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3275-.png"
+    },
+    {
+      "id": "3273",
+      "number": "3273",
+      "name": "蓝兔",
+      "image": "./data/images/3273.png",
+      "attributes": [
+        "冰"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 164,
+        "attack": 156,
+        "defense": 136,
+        "magicAttack": 87,
+        "magicDefense": 128,
+        "speed": 132
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3273",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3273-.png"
+    },
+    {
+      "id": "3255",
+      "number": "3255",
+      "name": "秘宝帽兜",
+      "image": "./data/images/3255.png",
+      "attributes": [
+        "冰"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 130,
+        "attack": 60,
+        "defense": 120,
+        "magicAttack": 120,
+        "magicDefense": 80,
+        "speed": 70
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3255",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3255-.png"
+    },
+    {
+      "id": "3229",
+      "number": "3229",
+      "name": "德罗拉",
+      "image": "./data/images/3229.png",
+      "attributes": [
+        "冰",
+        "翼"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 166,
+        "attack": 88,
+        "defense": 130,
+        "magicAttack": 152,
+        "magicDefense": 136,
+        "speed": 133
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3229",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3229-.png"
+    },
+    {
+      "id": "3219",
+      "number": "3219",
+      "name": "伊西希斯",
+      "image": "./data/images/3219.png",
+      "attributes": [
+        "冰"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 168,
+        "attack": 75,
+        "defense": 139,
+        "magicAttack": 150,
+        "magicDefense": 133,
+        "speed": 140
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3219",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3219-.png"
+    },
+    {
+      "id": "3200",
+      "number": "3200",
+      "name": "统御骑士",
+      "image": "./data/images/3200.png",
+      "attributes": [
+        "冰"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 155,
+        "attack": 80,
+        "defense": 130,
+        "magicAttack": 150,
+        "magicDefense": 131,
+        "speed": 110
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3200",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3200-.png"
+    },
+    {
+      "id": "3199",
+      "number": "3199",
+      "name": "竖琴青青",
+      "image": "./data/images/3199.png",
+      "attributes": [
+        "冰",
+        "翼"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 145,
+        "attack": 70,
+        "defense": 135,
+        "magicAttack": 145,
+        "magicDefense": 129,
+        "speed": 133
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3199",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3199-.png"
+    },
+    {
+      "id": "3155",
+      "number": "3155",
+      "name": "沍之璨雪",
+      "image": "./data/images/3155.png",
+      "attributes": [
+        "冰"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 143,
+        "attack": 77,
+        "defense": 148,
+        "magicAttack": 135,
+        "magicDefense": 133,
+        "speed": 119
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3155",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3155-.png"
+    },
+    {
+      "id": "3129",
+      "number": "3129",
+      "name": "渡风",
+      "image": "./data/images/3129.png",
+      "attributes": [
+        "冰",
+        "武"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 157,
+        "attack": 147,
+        "defense": 130,
+        "magicAttack": 85,
+        "magicDefense": 138,
+        "speed": 126
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3129",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3129-.png"
+    },
+    {
+      "id": "3123",
+      "number": "3123",
+      "name": "裂创虎神",
+      "image": "./data/images/3123.png",
+      "attributes": [
+        "冰",
+        "武"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 155,
+        "attack": 146,
+        "defense": 130,
+        "magicAttack": 88,
+        "magicDefense": 133,
+        "speed": 130
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3123",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3123-.png"
+    },
+    {
+      "id": "3116",
+      "number": "3116",
+      "name": "钢铁加鲁鲁兽",
+      "image": "./data/images/3116.png",
+      "attributes": [
+        "冰",
+        "机械"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 160,
+        "attack": 150,
+        "defense": 138,
+        "magicAttack": 80,
+        "magicDefense": 135,
+        "speed": 135
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3116",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3116-.png"
+    },
+    {
+      "id": "3082",
+      "number": "3082",
+      "name": "冰晶晶",
+      "image": "./data/images/3082.png",
+      "attributes": [
+        "冰"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 130,
+        "attack": 50,
+        "defense": 110,
+        "magicAttack": 123,
+        "magicDefense": 120,
+        "speed": 73
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3082",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3082-.png"
+    },
+    {
+      "id": "3076",
+      "number": "3076",
+      "name": "枫雪芙蕖",
+      "image": "./data/images/3076.png",
+      "attributes": [
+        "草",
+        "冰"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 144,
+        "attack": 86,
+        "defense": 125,
+        "magicAttack": 150,
+        "magicDefense": 120,
+        "speed": 123
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3076",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3076-.png"
+    },
+    {
+      "id": "3075",
+      "number": "3075",
+      "name": "科多索索",
+      "image": "./data/images/3075.png",
+      "attributes": [
+        "冰",
+        "石"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 143,
+        "attack": 136,
+        "defense": 140,
+        "magicAttack": 92,
+        "magicDefense": 140,
+        "speed": 95
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3075",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3075-.png"
+    },
+    {
+      "id": "3074",
+      "number": "3074",
+      "name": "枫雪傲霜",
+      "image": "./data/images/3074.png",
+      "attributes": [
+        "冰"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 141,
+        "attack": 88,
+        "defense": 129,
+        "magicAttack": 148,
+        "magicDefense": 127,
+        "speed": 116
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3074",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3074-.png"
+    },
+    {
+      "id": "3073",
+      "number": "3073",
+      "name": "寒英",
+      "image": "./data/images/3073.png",
+      "attributes": [
+        "冰",
+        "武"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 148,
+        "attack": 147,
+        "defense": 130,
+        "magicAttack": 70,
+        "magicDefense": 120,
+        "speed": 127
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3073",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3073-.png"
+    },
+    {
+      "id": "3071",
+      "number": "3071",
+      "name": "凌灵法师",
+      "image": "./data/images/3071.png",
+      "attributes": [
+        "冰",
+        "幽灵"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 137,
+        "attack": 70,
+        "defense": 121,
+        "magicAttack": 129,
+        "magicDefense": 122,
+        "speed": 98
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3071",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3071-.png"
+    },
+    {
+      "id": "3070",
+      "number": "3070",
+      "name": "雪兽骑士",
+      "image": "./data/images/3070.png",
+      "attributes": [
+        "冰",
+        "武"
+      ],
+      "description": "来自公开图鉴页的快速样本数据，适合快速浏览与筛选。",
+      "group": "组别未知",
+      "stats": {
+        "hp": 139,
+        "attack": 71,
+        "defense": 123,
+        "magicAttack": 123,
+        "magicDefense": 122,
+        "speed": 108
+      },
+      "source": "洛克小册子",
+      "sourceUrl": "https://roco.dvg.cn/spirit_info.php?id=3070",
+      "remoteImage": "https://source2025.dvg.cn/source_roco/dbsource/spirit/300/3070-.png"
+    }
+  ]
+}

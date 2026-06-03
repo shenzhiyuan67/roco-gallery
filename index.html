@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>洛克王国图鉴快速展示</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script type="module" src="./app.js"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="title-block">
+        <span class="eyebrow">ROCO QUICK DEX</span>
+        <h1>洛克王国图鉴</h1>
+        <p>快速样本展示页，支持名称搜索、属性筛选、种族值速览和精灵合影。</p>
+      </div>
+      <div class="count-panel">
+        <span>当前结果</span>
+        <strong id="resultCount">0 / 0</strong>
+      </div>
+    </header>
+
+    <main>
+      <nav class="mode-switch" aria-label="页面模式">
+        <button class="mode-button is-active" type="button" data-mode="dex">图鉴</button>
+        <button class="mode-button" type="button" data-mode="photo">合影</button>
+      </nav>
+
+      <section id="dexMode" class="mode-panel is-active">
+        <section class="toolbar" aria-label="图鉴筛选">
+        <label class="search-field">
+          <span>搜索宠物</span>
+          <input id="searchInput" type="search" placeholder="输入名称、编号或简介">
+        </label>
+        <button id="clearButton" class="clear-button" type="button">清空</button>
+        <div id="attributeFilters" class="filter-row" aria-label="属性筛选"></div>
+        </section>
+
+        <section id="petGrid" class="pet-grid" aria-label="宠物列表"></section>
+        <p id="emptyState" class="empty-state" hidden>没有找到匹配的宠物。</p>
+      </section>
+
+      <section id="photoMode" class="mode-panel photo-studio" aria-label="合影工作室">
+        <aside class="photo-picker">
+          <label class="search-field">
+            <span>添加精灵</span>
+            <input id="photoSearchInput" type="search" placeholder="搜索后添加到合影">
+          </label>
+          <div id="photoChoices" class="photo-choices"></div>
+        </aside>
+
+        <section class="photo-workspace">
+          <div class="photo-toolbar" aria-label="合影工具栏">
+            <label>
+              <span>背景</span>
+              <select id="backgroundSelect">
+                <option value="academy">学院草地</option>
+                <option value="forest">魔法森林</option>
+                <option value="paper">简洁卡纸</option>
+              </select>
+            </label>
+            <button id="removePhotoButton" type="button">删除</button>
+            <button id="resetPhotoButton" type="button">重置</button>
+            <button id="exportPhotoButton" class="primary-action" type="button">导出图片</button>
+          </div>
+
+          <div id="photoStage" class="photo-stage bg-academy" aria-label="合影画布">
+            <p id="photoHint" class="photo-hint">选择 2-5 个精灵生成队列合影。</p>
+          </div>
+
+          <div class="lineup-control">
+            <span>当前选择</span>
+            <span id="selectedName">未选择</span>
+          </div>
+          <p id="exportStatus" class="export-status" aria-live="polite"></p>
+        </section>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>非官方展示页，数据与图片来自公开资料站 <a id="sourceLink" href="#" target="_blank" rel="noreferrer"><span id="sourceName">公开资料</span></a>，版权归原权利方所有。生成日期：<span id="generatedAt">--</span>。</p>
+    </footer>
+
+    <dialog id="petDialog" class="pet-dialog">
+      <button id="closeDialog" class="dialog-close" type="button" aria-label="关闭详情">×</button>
+      <div id="dialogBody" class="dialog-body"></div>
+    </dialog>
+  </body>
+</html>
